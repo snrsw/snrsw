@@ -28,9 +28,7 @@ Peer-reviewed papers:
 5. Hamaguchi M., Nojiri T., Okamura T., Hashimoto H., Hanai A., Narisawa A., Ushigome E., Nakanishi N., Fukui M. (2021). [Status of Online Diet Management Program Users in Japan during the 2020 COVID-19 Pandemic](https://doi.org/10.3164/jcbn.21-31). *Journal of Clinical Biochemistry and Nutrition*, 69(3):305–310.
 6. Azuma K., Nojiri T., Kawashima M., Hanai A., Ayaki M., Tsubota K. (2021). [Possible Favorable Lifestyle Changes Owing to the COVID-19 Pandemic among Middle-Aged Japanese Women](https://doi.org/10.1371/journal.pone.0248935). *PLOS ONE*, 16(3):e0248935.
 
-The full list, including conference presentations, is in my [CV](https://github.com/snrsw/cv/blob/main/cv.en.md#publications).
-
 ## Contact
 
 - GitHub: [@snrsw](https://github.com/snrsw)
-<!-- Add LinkedIn / email / CV link here -->
+<!-- Add LinkedIn / email here -->
