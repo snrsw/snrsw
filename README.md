@@ -1,6 +1,6 @@
 # Hi, I'm nali 👋
 
-Software engineer based in Tokyo. I build developer tools for working with AI coding agents and GitHub, mostly in Rust and Go, and I manage my machines with Nix.
+Software engineer based in Tokyo, working in MLOps, SRE, ML engineering, and data engineering.
 
 ## Projects
 
