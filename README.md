@@ -25,7 +25,9 @@ Ph.D. research in combinatorial representation theory: crystal bases and K-hives
 - Narisawa, S., Shirayanagi, K. (2023). [Tensor Product Decomposition of Crystal Bases of Type A by K-hives](https://doi.org/10.1080/00927872.2023.2232875). *Communications in Algebra*, 52(1):16–47.
 - Narisawa, S., Shirayanagi, K. (2023). Algorithms for the Crystal Structure on K-hives of Type A. *Communications of JSSAC*, Vol. 5.
 
-### Applied research
+### Data science
+
+Papers from my work as a data scientist and data analyst.
 
 - Kim K., Koshizuka M., Narisawa S. (2023). [Application of Smart Meters for Detecting Human Activity: Concept and Case Study](https://doi.org/10.1109/SMC53992.2023.10393963). *Proceedings of SMC 2023*, 5188–5193.
 - Hamaguchi M., Nojiri T., Okamura T., Hashimoto H., Hanai A., Narisawa A., Ushigome E., Nakanishi N., Fukui M. (2021). [Status of Online Diet Management Program Users in Japan during the 2020 COVID-19 Pandemic](https://doi.org/10.3164/jcbn.21-31). *Journal of Clinical Biochemistry and Nutrition*, 69(3):305–310.
