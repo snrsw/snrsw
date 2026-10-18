@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm nali 👋
 
-<!--
-**snrsw/snrsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Tokyo. I build developer tools for working with AI coding agents and GitHub, mostly in Rust and Go, and I manage my machines with Nix.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**agnt**](https://github.com/snrsw/agnt) (Rust): a TUI that lists your Claude Code and Codex sessions in one place and gets you back into them.
+- [**gh-own**](https://github.com/snrsw/gh-own) (Go): a GitHub CLI extension that lists your PRs and issues across all repositories, grouped by what to do next.
+- [**prv**](https://github.com/snrsw/prv) (TypeScript): a local GitHub-style diff viewer for reviewing AI-agent changes before committing.
+- [**dotfiles**](https://github.com/snrsw/dotfiles) (Nix): my macOS setup with Nix and home-manager.
+
+## Skills
+
+- **Languages**: Rust, Go, Python, TypeScript
+- **Tooling**: Nix, GitHub Actions, Claude Code / Codex workflows
+- **Data**: data science and machine learning in Python
+
+## Background
+
+I have a background in mathematics, in combinatorial representation theory. I co-authored *Algorithms for crystal structure on K-hives of type A*; its experiment code is [khive-crystal](https://github.com/snrsw/khive-crystal), a Python package published on PyPI.
+
+## Contact
+
+- GitHub: [@snrsw](https://github.com/snrsw)
+<!-- Add LinkedIn / email / CV link here -->
